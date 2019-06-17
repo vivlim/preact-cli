@@ -1,0 +1,31 @@
+{
+  "name": "preact-cli-plugin-sw-helper",
+  "version": "3.0.0-rc.2",
+  "description": "Service worker helper plugin for preact cli",
+  "keywords": [
+    "service-worker",
+    "preact-cli",
+    "preact"
+  ],
+  "author": "Prateek Bhatnagar <prateek89born@gmail.com>",
+  "homepage": "https://github.com/developit/preact-cli#readme",
+  "license": "ISC",
+  "main": "lib/preact-cli-plugin-sw-helper.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developit/preact-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/developit/preact-cli/issues"
+  }
+}
